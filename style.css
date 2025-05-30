@@ -235,6 +235,15 @@
         /* width: 374px; */
     }
     
+    .idea_title_10 {
+        font-weight: 300;
+        font-size: 64px;
+        line-height: 130%;
+        letter-spacing: 0%;
+        color: black;
+        /* width: 374px; */
+    }
+    
     .vektor_button {
         display: flex;
         gap: 24px;
@@ -411,7 +420,7 @@
             scrollbar-width: none;
         }
         .navbar {
-            width: 360px;
+            width: 100%;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -505,7 +514,14 @@
             font-size: 36px;
             line-height: 120%;
             letter-spacing: 0%;
-            white-space: nowrap;
+        }
+        .idea_title_10 {
+            width: 320px;
+            font-weight: 300;
+            font-size: 36px;
+            line-height: 120%;
+            letter-spacing: 0%;
+            overflow: auto;
         }
         .carousell_header_button {
             display: block;
@@ -548,6 +564,7 @@
             font-weight: 300;
             font-size: 24px;
             line-height: 130%;
+            width: 320px;
             letter-spacing: 0%;
         }
         .friends_logo_wrapper_2 {
