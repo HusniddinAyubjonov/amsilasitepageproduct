@@ -401,7 +401,7 @@
         margin-left: 156px;
     }
     
-    @media(max-width: 360px) {
+    @media(max-width: 480px) {
         * {
             margin: 0;
             padding: 0;
