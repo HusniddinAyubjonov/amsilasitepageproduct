@@ -569,7 +569,7 @@
         }
         .friends_logo_wrapper_2 {
             gap: 16px;
-            margin-top: -44px;
+            margin-top: 16px;
         }
         .friend_logo_icon {
             width: 152px;
@@ -583,10 +583,10 @@
         }
         .idea_title_3 {
             font-weight: 300;
-            font-size: 36px;
+            font-size: 24px;
             line-height: 120%;
             letter-spacing: 0%;
             margin-left: 20px;
-            width: 257px;
+            width: 340px;
         }
     }
