@@ -438,6 +438,18 @@
             height: 28px;
             margin-right: 20px;
         }
+        .side-menu {
+            position: fixed;
+            right: -320px;
+            top: 0;
+            width: 320px;
+            height: 100vh;
+            background: white;
+            box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
+            padding: 40px 30px;
+            transition: right 0.3s ease;
+            z-index: 20;
+        }
         .header {
             padding: 84px 20px;
         }
